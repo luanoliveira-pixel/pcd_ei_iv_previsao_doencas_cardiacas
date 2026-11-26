@@ -41,11 +41,13 @@ Sem padronização, a acurácia cai para cerca de 65%, o que mostra que essa eta
 ```
 .
 ├── README.md
-├── doenca_cardiaca_knn.ipynb    # notebook do projeto
+├── doenca_cardiaca_knn.ipynb
 ├── dados/
-│   └── heart.csv                # base de dados
+│   └── heart.csv
 └── docs/
-    └── relatorio_tecnico.pdf    # relatório técnico
+    └── Relatório Técnico - Projeto Integrador em Grupo.pdf
+    └── Relatório Técnico - Projeto Integrador em Grupo.docx
+    └── PCD - EI IV - Previsão de Doenças Cardíacas.pdf
 ```
 
 ## Como executar
